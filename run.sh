@@ -1,0 +1,1 @@
+python3 main.py preprocessed 0 ./params.json ./output/
